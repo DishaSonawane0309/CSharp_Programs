@@ -1,0 +1,7 @@
+C:\DotNet_Development\CSharp Programs\PalindromesNumber\PalindromesNumber\bin\Debug\PalindromesNumber.exe.config
+C:\DotNet_Development\CSharp Programs\PalindromesNumber\PalindromesNumber\bin\Debug\PalindromesNumber.exe
+C:\DotNet_Development\CSharp Programs\PalindromesNumber\PalindromesNumber\bin\Debug\PalindromesNumber.pdb
+C:\DotNet_Development\CSharp Programs\PalindromesNumber\PalindromesNumber\obj\Debug\PalindromesNumber.csproj.AssemblyReference.cache
+C:\DotNet_Development\CSharp Programs\PalindromesNumber\PalindromesNumber\obj\Debug\PalindromesNumber.csproj.CoreCompileInputs.cache
+C:\DotNet_Development\CSharp Programs\PalindromesNumber\PalindromesNumber\obj\Debug\PalindromesNumber.exe
+C:\DotNet_Development\CSharp Programs\PalindromesNumber\PalindromesNumber\obj\Debug\PalindromesNumber.pdb
